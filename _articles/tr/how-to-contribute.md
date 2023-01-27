@@ -3,13 +3,6 @@ lang: tr
 title: Açık Kaynağa Nasıl Katkıda Bulunulur
 description: Açık kaynağa katkıda bulunmak ister misiniz? İlk defa yapacaklar ve tecrübeliler için katkı yapma rehberi.
 class: contribute
-toc:
-  why-contribute-to-open-source: Açık kaynağa neden katkıda bulunmalıyım?
-  what-it-means-to-contribute: Katkıda bulunmak ne demektir?
-  orienting-yourself-to-a-new-project: Kendinizi yeni bir projeye yönlendirmek
-  finding-a-project-to-contribute-to: Katkıda bulunacak bir proje bulma
-  how-to-submit-a-contribution: Katkı nasıl gönderilir?
-  what-happens-after-you-submit-a-contribution: Bir katkı gönderdikten sonra ne olur?
 order: 1
 image: "/assets/images/cards/contribute.png"
 related:
@@ -78,14 +71,6 @@ Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak ka
 </aside>
 
 Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve diğer topluluk üyeleriyle tanışmak için harika bir yoldur. Bu ilişkileri kurmak size projenin diğer bölümlerinde de çalışma fırsatı verecektir.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  İlk önce 17 Haziran 2002 tarihinde düzeltme yamamı e-postayla gönderdiğimde Python geliştirme ekibine (aka python-dev) ulaştım. Hızlı bir şekilde hatayı yakaladım ve grubun e-posta özetlerini iyileştirmeye başladım. Bir konu hakkında net bilgi almak için bana büyük bir bahane verdiler, ama daha kritik olarak, birinin düzeltilmesi gereken bir şeyi işaret ettiğini fark ettim.
-  <p markdown="1" class="pquote-credit">
-- @brettcannon, ["Geliştirme Hikayeleri"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### Etkinlik planlamayı sever misiniz?
 

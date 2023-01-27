@@ -3,10 +3,6 @@ lang: en
 title: Building Welcoming Communities
 description: Building a community that encourages people to use, contribute to, and evangelize your project.
 class: building
-toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
-  growing-your-community: "Growing your community"
-  resolving-conflicts: "Resolving conflicts"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -173,7 +169,7 @@ See if you can find ways to share ownership with your community as much as possi
 
 * If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+The reality is that [most projects only have](https://peerj.com/preprints/1233/) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
 
 While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
 
@@ -229,7 +225,7 @@ Under a consensus seeking process, community members discuss major concerns unti
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 
